@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# MacOS
+.DS_Store
+
+# Node
+node_modules
+
+# Dapptools
+out/
+
+# Foundry
+cache/
+
+# Yarn
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
